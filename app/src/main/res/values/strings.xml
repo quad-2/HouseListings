@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HouseListings</string>
+    <string name="no_result_text">Sorry there is no house of your choice. Please try again!</string>
+</resources>
